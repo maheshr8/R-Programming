@@ -1,3 +1,3 @@
 # R-Programming
 
-Author - Mahesh B.
+Author - Mahesh B. Raut
